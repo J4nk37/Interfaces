@@ -1,5 +1,7 @@
 Proyecto: Interfaces en Java Swing
 
+Presentacion: https://drive.google.com/file/d/1iO6w0pa0DaftJthQynuSxrLhp2OmEldt/view?usp=sharing
+
 Este proyecto contiene tres interfaces gráficas diseñadas en **Java Swing**, cada una enfocada en un contexto distinto (wallet de criptomonedas, banca online y plataforma de empleo).  
 El objetivo es practicar diseño de GUIs modernas, validación de entradas y feedback al usuario.
 
@@ -34,4 +36,5 @@ El objetivo es practicar diseño de GUIs modernas, validación de entradas y fee
 - **Diseño:** header azul con logo “💼 JobConnect”, estilo limpio y profesional.
 
 ---
+
 
