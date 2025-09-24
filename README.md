@@ -11,7 +11,6 @@ El objetivo es practicar diseño de GUIs modernas, validación de entradas y fee
 - **Comportamiento:**
     - Requiere aceptar el checkbox para iniciar sesión.
     - Mensajes claros de error/éxito.
-- **Captura esperada:** formulario elegante con botón azul degradado.
 
 ---
 
@@ -35,13 +34,4 @@ El objetivo es practicar diseño de GUIs modernas, validación de entradas y fee
 - **Diseño:** header azul con logo “💼 JobConnect”, estilo limpio y profesional.
 
 ---
-
-## 🚀 Ejecución
-Cada interfaz es independiente y cuenta con su `main`.  
-Para ejecutar una interfaz:
-
-```bash
-javac InterfazX.java
-java InterfazX
-https://drive.google.com/file/d/1iO6w0pa0DaftJthQynuSxrLhp2OmEldt/view?usp=sharing
 
